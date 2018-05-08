@@ -1,4 +1,4 @@
-# Lab-1-Animal-Trading-Card-WY
+# Lab1-Animal-Trading-Card-WY
 
 Instructions
 
