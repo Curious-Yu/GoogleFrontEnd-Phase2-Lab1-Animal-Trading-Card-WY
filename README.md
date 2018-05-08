@@ -37,7 +37,7 @@ The CSS must apply these styles to match the design prototype:
 
 1. link your stylesheet styles.css to the HTML or else your CSS will not be applied.
 
-2. give the interesting facts '<div>' a CSS class of animal-info
+2. give the interesting facts div a CSS class of animal-info
 
 3. italicize the text for the animal's interesting fact
 
